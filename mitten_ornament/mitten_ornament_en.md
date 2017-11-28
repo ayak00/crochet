@@ -3,8 +3,8 @@ Mitton Ornament
 
 **Abbreviations**
 - ch = chain
-- st = stitch
-- sts = stitches
+- sc = single crochet
+- st/sts = stitch/stiches
 - sl st = slip stitch
 
 
@@ -20,7 +20,7 @@ Mitton Ornament
 - Rnd 8. 16 sc.
 - Rnd 9. 16 sc.
 - Rnd 10. 2 sc, ch 4, skip 2 sc of previous row, sc remaining sts. (This row makes thumb's base.)
-- Rnd 11. 2 sc, 3 sc in ch 4  of previous row, sc remaing sts. (17 sc.)
+- Rnd 11. 2 sc, 3 sc in ch 4 of previous row, sc remaing sts. (17 sc.)
 - Rnd 12. 17 sc.
 - Rnd 13. 17 sc.
 - Rnd 14. 17 reverse sc. Fasten off and the tail to join the round and weave in the other sts.

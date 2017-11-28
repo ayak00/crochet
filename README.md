@@ -1,6 +1,6 @@
 ### Minimini Mitten Ornament
-- [English](mitten_ornament_en.md)
-- [Japanese](mitten_ornament_jp.md)
+- [English](mitten_ornament/mitten_ornament_en.md)
+- [Japanese](mitten_ornament/mitten_ornament_jp.md)
 
 
 ---
