@@ -38,7 +38,7 @@ Mitton Ornament
 Pls see Photos :)
 
 
-[Photos](https://www.instagram.com/p/BbQv8WiDDun/?hl=ja&taken-by=_hakononaka_)
+[Photos](https://www.instagram.com/p/BbQv8WiDDun/)
 
 
 Japanese version is [here](https://github.com/ayak00/crochet/blob/master/mitten_ornament_jp.md).

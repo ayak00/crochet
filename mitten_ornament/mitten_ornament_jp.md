@@ -37,7 +37,7 @@
 - 仕様針: 2/0号針
 - 出来上がりサイズ: 3×2cm（親指の出っ張り含まず）
 
-[出来上がり写真](https://www.instagram.com/p/BbQv8WiDDun/?hl=ja&taken-by=_hakononaka_)
+[出来上がり写真](https://www.instagram.com/p/BbQv8WiDDun/)
 
 
 English version is [here](https://github.com/ayak00/crochet/blob/master/mitten_ornament_en.md).
