@@ -3,6 +3,13 @@
 - [Japanese](mitten_ornament/mitten_ornament_jp.md)
 
 
+### Stocking Ornament
+- [Japanese](stocking_ornament/stocking_ornament_jp.md)
+
+
+### Amigurumi: UsaMannequin
+- [Japanese](amigurumi/UsaMannequin.md)
+
 ---
 
 **Note**  
